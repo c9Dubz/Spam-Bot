@@ -1,1 +1,2 @@
+""Create .txt file and open it in the python script""
 ""Write text that will be spammed here""
